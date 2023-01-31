@@ -65,3 +65,12 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215880792-bfba9e68-18ec-4ba2-b5bb-f7f90f9458ac.png)
 
+
+# Extras
+
+!REMINDERS!
+1 - The skins equipped will only be shown in your screen. This means you will be the only one who can see the skins.
+
+2 - Use this app at your won risk, although it is 100% it is not recommended that you use this since there is a chance you might get banned
+
+3 - If there are any errors or bugs in the code, try to restart the application and you should be good to go
