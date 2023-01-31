@@ -17,7 +17,8 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 3 - The zip file (Skin_Backpack.zip)
 
-4 - (In some cases you might need to disable your antivirus or run the .exe as administrator))
+4 - (In some cases you might need to disable your antivirus or run the .exe as administrator)
+
 
 # Instructions Step by Step
 
@@ -29,7 +30,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215877028-06988c00-e129-4c15-a4bc-dc1b28fa5598.png)
 
-3 - Open the .exe file and you should have you SB (Skins Bag) ready to go!
+3 - Open the .exe file and as simple as that you have your SB (Skins Bag) ready to go!
 
 ![image](https://user-images.githubusercontent.com/101829119/215877463-2aefc32a-e5b4-44a4-a4cd-43d39be4ccbf.png)
 
@@ -48,7 +49,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215878662-b1c595cf-5eec-4857-ac75-fd91fef6039c.png)
 
-4 - Hit enter and the action will be done! You have successfully equiped your first skin using Skins-Bag!
+4 - Hit enter and the action will be done! You have successfully equiped your first skin using Skins-Bag! Tat easy!!
 
 ![image](https://user-images.githubusercontent.com/101829119/215879228-fabccb97-a686-4567-ab24-74259fed8481.png)
 
@@ -60,4 +61,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215879691-e83b2d55-fcba-4ba1-83ce-5061600055ad.png)
 
+7 - Remember to have fun!
+
+![image](https://user-images.githubusercontent.com/101829119/215880792-bfba9e68-18ec-4ba2-b5bb-f7f90f9458ac.png)
 
