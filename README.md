@@ -41,7 +41,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215878218-04cfd26a-2f58-4fa4-a355-d56a2a0b60ff.png)
 
-2 - Hit ent and the following message should show up.
+2 - Hit enter and the following message should show up.
 
 ![image](https://user-images.githubusercontent.com/101829119/215878400-39e29a47-e55b-4748-95bf-2a85ab8c8474.png)
 
