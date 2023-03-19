@@ -1,6 +1,6 @@
 # Skins-Backpack
 
-This repository will help u to save/unlock Counter Strike skins in and will allow you to put them in your backpack. Instead of spending your hard earned money to get good looking skins, you could just pick one right out of your backpack.
+This repository will help you unlock Counter Strike skins and will allow you to save them in your backpack. Instead of spending your hard earned money to get good looking skins, you could just pick one right out of your backpack.
 
 ![Awp_asiimov](https://user-images.githubusercontent.com/101829119/215859138-f5e14ef1-da74-4ead-8f9b-873c3a3a52c1.png)
 ![Awp_Fade](https://user-images.githubusercontent.com/101829119/215859171-129d5b15-97bd-4da8-9800-43fc88a40756.png)
