@@ -17,7 +17,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 3 - The zip file (Skin_Backpack.zip)
 
-4 - (In some cases you might need to disable your antivirus or run the .exe as administrator)
+4 - (In some cases you might need to disable your antivirus or run the .exe as administrator but that is not necessary)
 
 
 # Instructions Step by Step
@@ -26,7 +26,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215876478-989f677d-a7d7-4f96-9a82-0c507e1b529d.png)
 
-2 - Launch Csgo and join an   empty match
+2 - Launch Csgo and join an empty match
 
 ![image](https://user-images.githubusercontent.com/101829119/215877028-06988c00-e129-4c15-a4bc-dc1b28fa5598.png)
 
@@ -49,7 +49,7 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 ![image](https://user-images.githubusercontent.com/101829119/215878662-b1c595cf-5eec-4857-ac75-fd91fef6039c.png)
 
-4 - Hit enter and the action will be done! You have successfully equiped your first skin using Skins-Bag! Tat easy!!
+4 - Hit enter and the action will be done! You have successfully equiped your first skin using Skins-Bag! That easy!!
 
 ![image](https://user-images.githubusercontent.com/101829119/215879228-fabccb97-a686-4567-ab24-74259fed8481.png)
 
@@ -72,6 +72,10 @@ All you need to start your journey of testing out csgo skins is to make sure tha
 
 1 - The skins equipped will only be shown in your screen. This means you will be the only one who can see the skins.
 
-2 - Use this app at your won risk, although it is 100% safe it is not recommended that you use this since there is a chance you might get banned
+2 - Use this app at your won risk, although it is 100% safe it is not recommended that you use skin chagers since it is against csgo rules
 
 3 - If there are any errors or bugs in the code, try to restart the application and you should be good to go
+
+4 - Make sure to report any bugs or errors in the code
+
+5 - Remind yourself to post suggestions to the repository
